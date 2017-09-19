@@ -7,3 +7,7 @@ body {
 html {
   background-color: green;
 }
+nav ul {
+  background-color: #2eb82e;
+  list-style-type: none;
+}
