@@ -10,4 +10,6 @@ html {
 nav ul {
   background-color: #2eb82e;
   list-style-type: none;
+  padding-left: 30px;
+  padding-right: 30px;
 }
