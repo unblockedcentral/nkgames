@@ -4,3 +4,6 @@ body {
   border: 2px solid #111111;
   border-radius: 10px;
 }
+html {
+  background-color: pink;
+}
