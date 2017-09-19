@@ -20,4 +20,8 @@ nav ul li {
   color: black;
   font-weight: bold;
   display: inline;
+  margin-top: 10px;
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-bottom: 10px;
 }
