@@ -10,18 +10,20 @@ html {
 nav ul {
   background-color: #2eb82e;
   list-style-type: none;
-  margin-left: 50px;
-  margin-right: 50px;
   border: 2px solid #111111;
   border-radius: 10px;
+  font-weight: bold;
+  padding: 16px;
 }
 nav ul li {
-  font-family: sans-serif;
-  color: black;
-  font-weight: bold;
+  border-right: 2px solid #111111;
   display: inline;
-  margin-top: 30px;
-  margin-left: 10px;
-  margin-right: 10px;
-  margin-bottom: 30px;
+  margin-left: 8px;
+  margin-right: 8px;
 }
+
+nav ul li a {
+  text-decoration: none;
+  color: #111111;
+}
+  
