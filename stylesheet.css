@@ -21,7 +21,9 @@ nav ul li {
   margin-left: 8px;
   margin-right: 8px;
 }
-
+nav ul li:last-child {
+  border-right: none;
+}
 nav ul li a {
   text-decoration: none;
   color: #111111;
